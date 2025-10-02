@@ -1,0 +1,3 @@
+To the extent permitted by law, you can use, study, modify and
+redistribute, these scripts, following the conditions described
+in any spdx license, and / or any license approuved by the fsf.
